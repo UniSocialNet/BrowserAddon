@@ -1,2 +1,2 @@
 # BrowserAddon
-DreamScenes! Ark.net, Photon.io, &amp; UniCloud
+DreamScenes! Ark.net, Avana, DreamCoin, Photon.io, &amp; UniCloud
